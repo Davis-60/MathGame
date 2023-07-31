@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Math Game</string>
+    <string name="answerTitle">Correct Answers</string>
+    <string name="buttonLabel">CHECK</string>
+    <string name="productionTag">Made by Davis Featherstone</string>
+    <string name="answerHint">Answer Here</string>
+    <string name="mode">Hard Mode</string>
 </resources>
